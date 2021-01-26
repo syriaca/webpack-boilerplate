@@ -4,7 +4,7 @@
 2. Open up terminal and run **npm install**
 3. You're ready to go !
 
-## Main command
+## Main commands
 
 -   **npm run server** for development
 -   **npm run build** for production mode
